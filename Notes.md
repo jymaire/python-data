@@ -1,16 +1,8 @@
 # Notes pour apéro tech "Python - data"
 
-## Un peu de contexte
-
-- Gonette - bénévole depuis novembre 2018
-- Besoin de visualisation les données des flux monétaires
-- Arrivée d'un bénévole data scientist
-
-
-
 ## Les outils
 
-- Pyton 3.x
+- Python 3.x
 
 - Jupyter (installé avec Anaconda)
 
@@ -20,15 +12,30 @@
 
   - Pour traiter les données
 
-- Plot
+- Plotly et Matplotlib
 
   - Pour faire des jolis graphiques <3
 
+  - https://matplotlib.org/
+  
+  - https://plotly.com/
+  
     
 
-## Les Données
+## Les données pour cette démo
 
-- Paiements (B2B, B2C)
-- Données référentielles sur les pros
+Jeu de données sur les parcs de la métropole de Lyon
 
-Pour cette démo : mes données de paiements 
+
+
+## Annexes
+
+Article Blog Martin Fowler
+
+https://martinfowler.com/bliki/ComputationalNotebook.html
+
+https://martinfowler.com/articles/productize-data-sci-notebooks.html
+
+Chaîne YT "Machine Learnia"
+
+https://www.youtube.com/watch?v=zZkNOdBWgFQ
