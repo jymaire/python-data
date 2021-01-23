@@ -1,5 +1,7 @@
 # Notes pour apéro tech "Python - data"
 
+intro : besoin asso - graphes sortis
+
 ## Les outils
 
 - Python 3.x
