@@ -1,8 +1,9 @@
 # Notes pour apéro tech "Python - data"
 
-intro : besoin asso - graphes sortis
+Deux répertoires : 
 
-sites web : anaconda,jupyter, pandas, numpy, plolty, matplotlib, trello graph
+- csv avec en entrée un fichier CSV, sans trop de manipulation de données
+- json avec en entrée un fichier json avec un peu plus de manipulation
 
 ## Les outils
 
@@ -28,9 +29,13 @@ sites web : anaconda,jupyter, pandas, numpy, plolty, matplotlib, trello graph
 
 ## Les données pour cette démo
 
+### Json
+
 Jeu de données sur les parcs de la métropole de Lyon
 
-Nourriture https://ourworldindata.org/food-choice-vs-eating-local#:~:text=Eating%20less%20meat%20and%20dairy,your%20footprint%20by%20much%20more.
+### csv
+
+ https://ourworldindata.org/food-choice-vs-eating-local#:~:text=Eating%20less%20meat%20and%20dairy,your%20footprint%20by%20much%20more.
 
 total GHG (green house gas) emissions per kilogram of food product.
 
