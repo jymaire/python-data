@@ -1,5 +1,17 @@
 %title: Comment visualiser facilement un jeu de données avec Python
 
+-> Pourquoi cette présentation <-
+
+Présentation d'un outil que je ne connaissais pas.
+
+Utile pour 
+
+- remplacer Excel
+- faire des démos
+- expliquer un algo
+
+-----
+
 -> Un peu de contexte <-
 
 Comment je suis arrivé à vouloir faire des graphes ?

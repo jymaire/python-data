@@ -2,6 +2,8 @@
 
 intro : besoin asso - graphes sortis
 
+sites web : anaconda,jupyter, pandas, numpy, plolty, matplotlib, trello graph
+
 ## Les outils
 
 - Python 3.x
