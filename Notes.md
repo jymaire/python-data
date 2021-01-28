@@ -1,5 +1,9 @@
 # Notes pour apéro tech "Python - data"
 
+intro : besoin asso - graphes sortis
+
+sites web : anaconda,jupyter, pandas, numpy, plolty, matplotlib, trello graph
+
 ## Les outils
 
 - Python 3.x
@@ -25,6 +29,12 @@
 ## Les données pour cette démo
 
 Jeu de données sur les parcs de la métropole de Lyon
+
+Nourriture https://ourworldindata.org/food-choice-vs-eating-local#:~:text=Eating%20less%20meat%20and%20dairy,your%20footprint%20by%20much%20more.
+
+total GHG (green house gas) emissions per kilogram of food product.
+
+producing a kilogram of beef emits 60 kilograms of greenhouse gases (CO2-equivalents
 
 
 
